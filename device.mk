@@ -304,6 +304,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libjson
 
+# Performance
+PRODUCT_PACKAGES += \
+    powerctl
+
 # Radio
 PRODUCT_PACKAGES += \
     librmnetctl
